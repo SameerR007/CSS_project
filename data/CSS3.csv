@@ -1,0 +1,519 @@
+,title,summary,sentiment_BERT,sentiment_RNN
+0,IT STARTS WITH US,"In the sequel to “It Ends With Us,” Lily deals with her jealous ex-husband as she reconnects with her first boyfriend.",positive,neutral
+1,IT ENDS WITH US,A battered wife raised in a violent home attempts to halt the cycle of abuse.,positive,neutral
+2,LESSONS IN CHEMISTRY,A scientist and single mother living in California in the 1960s becomes a star on a TV cooking show.,positive,neutral
+3,VERITY,Lowen Ashleigh is hired by the husband of an injured writer to complete her popular series and uncovers a horrifying truth.,positive,neutral
+4,THE BOYS FROM BILOXI,"Two childhood friends follow in their fathers’ footsteps, which puts them on opposite sides of the law.",positive,neutral
+5,FAIRY TALE,A high school kid inherits a shed that is a portal to another world where good and evil are at war.,positive,neutral
+6,WHERE THE CRAWDADS SING,"In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",positive,neutral
+7,UGLY LOVE,"Tate Collins and Miles Archer, an airline pilot, think they can handle a no strings attached arrangement. But they can't.",neutral,neutral
+8,DEMON COPPERHEAD,A reimagining of Charles Dickens’s “David Copperfield” set in the mountains of southern Appalachia.,positive,neutral
+9,THE LIGHT WE CARRY,The former first lady shares personal stories and the tools she uses to deal with difficult situations.,positive,neutral
+10,I'M GLAD MY MOM DIED,The actress and filmmaker describes her eating disorders and difficult relationship with her mother.,neutral,neutral
+11,"FRIENDS, LOVERS, AND THE BIG TERRIBLE THING","The actor, known for playing Chandler Bing on “Friends,” shares stories from his childhood and his struggles with sobriety.",positive,neutral
+12,SURRENDER,"The lead singer of the Irish rock band U2 offers details of his life, career and activism.",positive,neutral
+13,THE REVOLUTIONARY,The Pulitzer Prize-winning biographer details Samuel Adams’s contributions to the American Revolution.,positive,positive
+14,THE BODY KEEPS THE SCORE,"How trauma affects the body and mind, and innovative treatments for recovery.",positive,negative
+15,AND THERE WAS LIGHT,The Pulitzer Prize-winning biographer portrays the life of Abraham Lincoln.,positive,neutral
+16,WHAT IF? 2,The creator of the web comic “xkcd” and former NASA roboticist looks into hypothetical and oddball scenarios.,positive,negative
+17,THE PHILOSOPHY OF MODERN SONG,"In a collection of more than 60 essays, the musician and winner of the Nobel Prize in Literature explores the nature of popular music.",positive,neutral
+18,DREAMLAND,Musicians from different backgrounds are attracted to each other and a mother flees with her son from an abusive husband.,positive,neutral
+19,TRIPLE CROSS,Detective Alex Cross and the true-crime author Thomas Tull search for a serial killer known as the Family Man.,positive,neutral
+20,MAD HONEY,"After returning to her hometown, Olivia McAfee’s son gets accused of killing his crush.",positive,neutral
+21,A WORLD OF CURIOSITIES,"The 18th book in the Chief Inspector Gamache series. When an attic room that was sealed off 160 years ago is opened, an old enemy returns.",positive,neutral
+22,"TOMORROW, AND TOMORROW, AND TOMORROW",Two friends find their partnership challenged in the world of video game design.,positive,neutral
+23,THE SONG OF THE CELL,The Pulitzer Prize-winning author chronicles the discovery of cells and describes how modern medicine uses them.,positive,neutral
+24,THE SEVEN HUSBANDS OF EVELYN HUGO,A movie icon recounts stories of her loves and career to a struggling magazine writer.,positive,neutral
+25,NOVEMBER 9,Ben and Fallon meet on the same day each year but a possible untruth might spoil their relationship.,neutral,neutral
+26,THE SILENT PATIENT,Theo Faber looks into the mystery of a famous painter who stops speaking after shooting her husband.,positive,neutral
+27,MAYBE SOMEDAY,"When a college student finds out her boyfriend is cheating on her, she turns her attention to her guitar-playing neighbor.",neutral,neutral
+28,BRAIDING SWEETGRASS,A botanist and member of the Citizen Potawatomi Nation espouses having an understanding and appreciation of plants and animals.,positive,neutral
+29,ALL ABOUT LOVE,The late feminist icon explores the causes of a polarized society and the meaning of love.,positive,neutral
+30,ALL ABOUT ME!,"The EGOT and Kennedy Center honoree shares stories about making comedy for the stage, film and television.",positive,neutral
+31,BECOMING,"The former first lady describes her journey from the South Side of Chicago to the White House, and how she balanced work, family and her husband’s political ascent.",positive,neutral
+32,DEVOTION,"During segregation, a white New Englander and an African American sharecropper’s son from Mississippi fight together in the Korean War; the basis of the movie.",positive,neutral
+33,TALKING TO STRANGERS,Famous examples of miscommunication serve as the backdrop to explain potential conflicts and misunderstandings.,positive,neutral
+34,THE GREATEST BEER RUN EVER,"In 1967, a former Marine agrees to sneak into Vietnam to deliver brews to friends still serving.",positive,neutral
+35,THESE PRECIOUS DAYS,"Essays on friendships, influences and the connection between life and art.",positive,neutral
+36,THE COMPLETE COOKBOOK FOR YOUNG CHEFS,Over 100 kid-tested recipes from America's Test Kitchen.,positive,neutral
+37,THE CHRISTMAS PIG,"When a young boy's favorite toy goes missing, it's Christmas Pig to the rescue!",positive,neutral
+38,THE COMPLETE BAKING BOOK FOR YOUNG CHEFS,One hundred plus kid-tested baking recipes.,positive,neutral
+39,THE OFFICIAL HARRY POTTER BAKING BOOK,Forty-three tasty recipes inspired by the Harry Potter films.,positive,neutral
+40,ODDER,"After a shark attack, Odder recuperates at the aquarium with the scientists who raised her.",positive,neutral
+41,TWO DEGREES,Four kids simultaneously experience three natural catastrophes due to climate change.,positive,neutral
+42,WONDER,A boy with a facial deformity starts school.,positive,neutral
+43,REFUGEE,Three children in three different conflicts look for safe haven.,positive,neutral
+44,THE DOOR OF NO RETURN,Kofi's life is turned upside down after his brother accidentally kills a prince in a wresting match.,positive,neutral
+45,HOW TO CATCH AN ELF,A tiny narrator dodges traps while making the Christmas rounds.,positive,neutral
+46,DRAGONS LOVE TACOS,What to serve your dragon-guests.,positive,neutral
+47,THE DAY THE CRAYONS QUIT,Problems arise when Duncan’s crayons revolt.,neutral,neutral
+48,LITTLE RED SLEIGH,Little Red Sleigh dreams of becoming Santa's sleigh one day.,positive,negative
+49,CONSTRUCTION SITE ON CHRISTMAS NIGHT,Construction vehicles build a firehouse in time for Christmas.,positive,positive
+50,THE WONDERFUL THINGS YOU WILL BE,A celebration of future possibilities.,positive,neutral
+51,THE SOUR GRAPE,"A grape hold grudges against everyone, then re-evaluates life when one is held against him.",positive,negative
+52,LITTLE BLUE TRUCK MAKES A FRIEND,Blue and friends meet Chuck the woodchuck.,positive,neutral
+53,HOW TO CATCH A UNICORN,Children attempt to capture the mythical creature.,positive,neutral
+54,DIARY OF A WIMPY KID,The travails and challenges of adolescence.,positive,positive
+55,HARRY POTTER,A wizard hones his conjuring skills in the service of fighting evil.,positive,negative
+56,PERCY JACKSON & THE OLYMPIANS,A boy battles mythological monsters.,positive,neutral
+57,A GOOD GIRL'S GUIDE TO MURDER,Pippa Fitz-Amobi solves murderous crimes.,positive,positive
+58,MAGIC TREE HOUSE,These siblings can overcome space and time.,positive,negative
+59,CAPTAIN UNDERPANTS,Boys and their principal fight evil.,positive,negative
+60,THE SUMMER I TURNED PRETTY TRILOGY,"A beach house, summer love and enduring friendships.",positive,negative
+61,WINGS OF FIRE,Only the five dragonets of destiny can unite the seven warring dragon tribes.,positive,neutral
+62,THE INHERITANCE GAMES,Avery Grambs tries to figure out why an inheritance from a stranger was bestowed upon her.,positive,neutral
+63,LONG LIVE THE PUMPKIN QUEEN,"Sally, the new Queen of Halloween Town, must save her town from a sleeping curse.",positive,neutral
+64,FIVE SURVIVE,Six friends on a spring break road trip in an R.V. are the target of a sniper.,positive,neutral
+65,THE FIRST TO DIE AT THE END,"In this prequel to ""They Both Die at the End,"" Orion and Valentino attend the premier of Death-Cast in Times Square.",positive,neutral
+66,LIGHTLARK,Every 100 years the island of Lightlark appears and a deadly competition called the Centennial takes place.,positive,negative
+67,ONE OF US IS LYING,"For five students, a detour into detention ends in murder.",negative,neutral
+68,A THOUSAND HEARTBEATS,Annika and Lennox are lovers on opposing sides of an impending war.,positive,neutral
+69,FAMILY OF LIARS,This prequel to “We Were Liars” focuses on Cady's mother and aunts as teenagers in 1987.,positive,neutral
+70,I WAS BORN FOR THIS,"Angel meets the front man of her favorite boy band, the Ark.",positive,neutral
+71,LOVELESS,"Georgia, a British teenager, works on accepting her aro-ace identity.",positive,neutral
+72,GREENLIGHTS,"The Academy Award-winning actor shares snippets from the diaries he kept over 35 years. Read by the author. 6 hours, 42 minutes unabridged.",positive,neutral
+73,FINDING ME,"The multiple award-winning actress describes the difficulties she encountered before claiming her sense of self and achieving professional success. Read by the author. 9 hours, 15 minutes unabridged.",positive,neutral
+74,THE MYTH OF NORMAL,"The potential ways in which trauma and stress from modern-day living can affect our physical health. Read by Daniel Maté. 18 hours, 13 minutes unabridged.",positive,neutral
+75,STARRY MESSENGER,"The astrophysicist and director of the Hayden Planetarium delves into subjects including politics, religion, gender and race. Read by the author. 7 hours, 17 minutes unabridged.",positive,neutral
+76,COLLABORATIONS,"The fourth book in the Cat Kid Comic Club series. After doing their chores, baby frogs work together to create more mini-comics.",positive,neutral
+77,MOON RISING,The sixth book in the Wings of Fire graphic novel series; adapted by Barry Deutsch and Rachel Swirsky.,positive,neutral
+78,"CHAINSAW MAN, VOL. 1",A poor young man who was betrayed by someone he once trusted discovers he has the power of a devil inside him.,negative,neutral
+79,ON PURPOSE,"The third book in the Cat Kid Comic Club series. Fame, fortune and creativity pull the members of the comic club in different directions.",positive,neutral
+80,MOTHERING HEIGHTS,The 10th book in the Dog Man series. Can the power of love overcome the darkness and despair created by new villains?,positive,neutral
+81,JESSI'S SECRET LANGUAGE,The 12th book in the Baby-sitters Club graphic novel series. Jessi uses sign language with her charge.,positive,neutral
+82,THE BAD GUYS IN THE OTHERS?!,The 16th book in the Bad Guys series. An oversharing bat and a guy with a mullet add to the weirdness.,positive,neutral
+83,GRIME AND PUNISHMENT,"The ninth book in the Dog Man series. After turning in his badge, the canine cop is determined not to just roll over.",positive,neutral
+84,MARY ANNE'S BAD LUCK MYSTERY,The 13th book in the Baby-sitters Club graphic novel series. Mary Anne receives a bad-luck charm in the mail with instructions to wear it.,positive,neutral
+85,THE JUDGE'S LIST,The second book in the Whistler series. Investigator Lacy Stoltz goes after a serial killer and closes in on a sitting judge.,positive,neutral
+86,STEAL,"An N.Y.P.D. detective, a hedge fund chief executive and a psychology professor are wrapped up in the disappearance of a college student.",positive,neutral
+87,INVISIBLE,The daughter of a couple in a loveless marriage is discovered by a British filmmaker and thrust into the public eye.,positive,neutral
+88,A GAMBLING MAN,"Aloysius Archer, a World War II veteran, seeks to apprentice with Willie Dash, a private eye, in a corrupt California town.",positive,neutral
+89,THE AWAKENING,The first book in the Dragon Heart Legacy series. Breen Kelly travels through a portal in Ireland to a land of faeries and mermaids.,positive,neutral
+90,ONE STEP TOO FAR,The second book in the Frankie Elkin series. Frankie searches for a young man who went missing during a bachelor party camping trip.,positive,neutral
+91,BEFORE WE WERE YOURS,A South Carolina lawyer learns about the questionable practices of a Tennessee orphanage.,positive,neutral
+92,CRUEL WINTER OF THE MOUNTAIN MAN,"The 50th book in the Mountain Man series. Smoke Jensen enlists the townspeople of Salt Lick, Texas, to protect their town from a blizzard and bandits.",positive,neutral
+93,LEOPARD'S SCAR,The 14th book in the Leopard series. Desire arises when Meiling uses her strength to save a leopard shifter.,positive,neutral
+94,THE CABINET OF DR. LENG,The 21st book in the Pendergast series. Constance Greene travels back in time to prevent the deaths of her siblings.,positive,neutral
+95,THE HOUSE OF WOLVES,"After her father is murdered, Jenny Wolf becomes the head of a powerful family in California.",positive,neutral
+96,SPARE,"The Duke of Sussex details his struggles with the royal family, loss of his mother, service in the British Army and marriage to Meghan Markle.",positive,neutral
+97,THE NAZI CONSPIRACY,"The story of a Nazi plot to kill President Roosevelt, Joseph Stalin and Winston Churchill.",positive,neutral
+98,STRAIGHT SHOOTER,The ESPN analyst recounts the highs and lows of his life and career.,positive,neutral
+99,MASTER SLAVE HUSBAND WIFE,"In 1848, Ellen Craft, disguised as a disabled white man, and her husband, William, posing as that man’s slave, achieved freedom only to have to flee again.",positive,neutral
+100,HOW TO SELL A HAUNTED HOUSE,"After her parents die, Louise encounters more than she expected in dealing with the family home.",positive,neutral
+101,THE HOUSE IN THE PINES,"Seven years after witnessing her best friend drop dead, Maya returns to her Berkshires hometown to piece together what happened.",positive,neutral
+102,HELL BENT,The second book in the Alex Stern series. Alex risks her future at Lethe and Yale to get Darlington out of purgatory.,positive,neutral
+103,AN IMMENSE WORLD,The Pulitzer Prize–winning science writer explains the sensory perceptions and ways of communication used by a variety of animals.,positive,neutral
+104,ROUGH SLEEPERS,The Pulitzer Prize-winning author chronicles Jim O’Connell’s work to provide medical care to Boston’s unhoused population.,positive,neutral
+105,A MAN CALLED OVE,A curmudgeon's gruff exterior masks a generosity of spirit; the basis of the film “A Man Called Otto.”,positive,neutral
+106,THINGS WE NEVER GOT OVER,A runaway bride becomes the guardian of her evil twin's daughter and gets some help from a bad-boy barber.,positive,negative
+107,SAPIENS,How Homo sapiens became Earth’s dominant species.,positive,neutral
+108,"THINKING, FAST AND SLOW",When we can and cannot trust our intuitions in making business and personal decisions.,positive,neutral
+109,EDUCATED,"The daughter of survivalists, who is kept out of school, educates herself enough to leave home for university.",positive,neutral
+110,THE JANUARY 6TH REPORT,The final report of the Select Committee to Investigate the Jan. 6. Attack on the United States Capitol; with a preface by David Remnick and epilogue by Representative Jamie Raskin.,positive,neutral
+111,HOW THE WORD IS PASSED,A staff writer at The Atlantic explores the legacy of slavery and its imprint on centuries of American history.,positive,neutral
+112,JUST MERCY,A civil rights lawyer and MacArthur grant recipient’s memoir of his decades of work to free innocent people condemned to death.,positive,neutral
+113,LITTLE LEADERS,The biographies of 40 African-American women who made a difference.,positive,neutral
+114,LITTLE LEGENDS: EXCEPTIONAL MEN IN BLACK HISTORY,Biographies of trailblazing Black men.,positive,neutral
+115,GROUND ZERO,"Parallel storylines of Brandon and Reshmina take place on Sept. 11th, in 2001 and 2019.",positive,negative
+116,LITTLE BLUE TRUCK'S VALENTINE,Little Blue Truck delivers Valentine's Day cards to all his farm animal friends.,positive,neutral
+117,HOW TO CATCH A LOVEOSAURUS,The Catch Club Kids attempt to catch a dinosaur that wants to spread love and kindness.,positive,neutral
+118,LOVE FROM THE VERY HUNGRY CATERPILLAR,A ravenous insect returns with its appetite intact.,negative,neutral
+119,GRUMPY MONKEY VALENTINE GROSS-OUT,"Jim Panzee believes that Valentine's Day is gross, especially kissing!",positive,neutral
+120,IN MY HEART,An exploration of feelings.,positive,neutral
+121,LOVE FROM THE CRAYONS,The Crayons show the colors of love.,positive,positive
+122,THRONE OF GLASS,Celaena must battle evil forces threatening her realm.,positive,positive
+123,FOLK OF THE AIR,Jude’s quest to become the first mortal queen of the High Court of Faerie.,positive,neutral
+124,THE STOLEN HEIR,Runaway Queen Suren and Prince Oak embark on a deadly and dangerous mission to the north.,positive,neutral
+125,NICK AND CHARLIE,Nick and Charlie question whether their love is strong enough to survive being apart when Nick leaves for university.,neutral,neutral
+126,MYSTERIES OF THORN MANOR,"Thorn Manor has magically trapped Elisabeth, Nathaniel and Silas inside. Can they get free in time for the Midwinter Ball?",positive,neutral
+127,"SONG OF SILVER, FLAME LIKE NIGHT","Lan and Zen struggle to survive in their conquered homeland, but they may also have the power to liberate it.",positive,neutral
+128,REMARKABLY BRIGHT CREATURES,"A widow working the night shift at the Sowell Bay Aquarium is aided in solving a mystery by a giant Pacific octopus living there. Read by Marin Ireland and Michael Urie. 11 hours, 16 minutes unabridged.",positive,neutral
+129,THE END OF THE WORLD IS JUST THE BEGINNING,"A look at potential changes in globalization. Read by the author. 16 hours, 44 minutes unabridged.",positive,neutral
+130,KAREN'S BIRTHDAY,The sixth book in the Baby-sitters Little Sister graphic novel series. Karen hopes to have one big party to bring the whole family together.,positive,neutral
+131,THE DRAGONET PROPHECY,The first book in the Wings of Fire graphic book series. Five dragonets spring into action to fulfill their destiny.,positive,neutral
+132,"THE BOY, THE MOLE, THE FOX AND THE HORSE: THE ANIMATED STORY",A celebration of the work of more than 100 animators across two years of production in creating the film adaptation of the book.,positive,neutral
+133,"KAIJU NO. 8, VOL. 5","When the Defense Force takes Kafka Hibino into custody, he pleads his case with Director General Shinomiya.",positive,neutral
+134,HIGH STAKES,A new assistant seeks to shake things up at a boutique literary and talent agency where damaging secrets have been kept hidden.,positive,neutral
+135,DESPERATION IN DEATH,The 55th book of the In Death series. Eve Dallas is reminded of her past as she investigates a possible sex trafficking ring.,positive,neutral
+136,21ST BIRTHDAY,The 21st book in the Women’s Murder Club series. New evidence changes the investigation of a missing mother.,positive,neutral
+137,BAD LUCK AND TROUBLE,The 11th book in the Jack Reacher series. Reacher must discover who is hunting members of a team of former military investigators.,positive,neutral
+138,TICK TOCK,"The 34th book in the Sisterhood series. As a vicious felon seeks to settle some scores, Myra and Charles call for reinforcements.",positive,neutral
+139,RECOVERY ROAD,The eighth book in the Torpedo Ink series. A member of the motorcycle club helps an investment banker deal with thugs attempting to coerce her into marriage.,positive,neutral
+140,SMOKE SCREEN,"Scandalous deaths thwart the investigation of a fatal fire at the police headquarters in Charleston, S.C.",negative,neutral
+141,HEART BONES,"After an unexpected death prevents her from going to Penn State and and forces her to move in with her absent father, Beyah Grim has a summer fling with the rich guy next door.",positive,neutral
+142,DAISY JONES & THE SIX,A fictional oral history charting the rise and fall of a ’70s rock ’n’ roll band.,positive,neutral
+143,UNSCRIPTED,"Two New York Times journalists portray power struggles within Paramount Global, the multibillion-dollar entertainment empire controlled by the Redstone family.",neutral,neutral
+144,CASTE,The Pulitzer Prize-winning journalist examines aspects of caste systems across civilizations and reveals a rigid hierarchy in America today.,positive,neutral
+145,"LOVE, PAMELA","The actress and activist details her childhood, rise to fame and the ways she is reclaiming the narrative of her life.",positive,neutral
+146,BITTERSWEET,The author of “Quiet” suggests ways to embrace loss and suffering within ourselves and others.,positive,neutral
+147,THE CLIMATE BOOK,The activist exposes greenwashing efforts and shares insights from leaders in various fields about climate challenges.,positive,neutral
+148,SOMEONE ELSE'S SHOES,Drastic changes and a pair of six-inch high Christian Louboutin red crocodile shoes shake up the lives of two women.,negative,neutral
+149,ENCORE IN DEATH,The 56th book of the In Death series. Eve Dallas investigates the mysterious death of a well-loved star of stage and screen.,positive,neutral
+150,WALK THE BLUE LINE,A collection of stories about police officers.,positive,neutral
+151,THE NINETIES,An overview of the cultural and historical impact of the 1990s.,positive,neutral
+152,QUIET,Introverts — approximately one-third of the population — are undervalued in American society.,negative,neutral
+153,BORN A CRIME,A memoir about growing up biracial in apartheid South Africa by the former host of “The Daily Show.”,positive,neutral
+154,THE WINDEBY PUZZLE,Estrild dreams of becoming the first female warrior in her village during the Iron Age.,positive,neutral
+155,THE SWIFTS,Shenanigan Swift investigates murders during a family reunion treasure hunt.,positive,neutral
+156,"WHEN I TALK TO GOD, I TALK ABOUT YOU",Celebrating the loving bond between parent and child.,positive,neutral
+157,HOW TO CATCH A LEPRECHAUN,This is the year you'll finally catch a leprechaun.,positive,positive
+158,THE LAST HOURS,The adventures of Shadowhunter Cordelia Carstairs as she battles evil forces in Edwardian London.,positive,positive
+159,WHO WAS/IS . . . ?,Biographies unlock legendary lives.,positive,neutral
+160,THE DAVENPORTS,"The children of a wealthy Black family navigate romance, classism and racism in 1910 Chicago.",positive,negative
+161,THESE INFINITE THREADS,"In this sequel to ""This Woven Kingdom,"" Alizeh and Kamran's love is at stake when Cyrus abducts Alizeh and attempts to wed her.",positive,neutral
+162,"MY HERO ACADEMIA, VOL. 33",Midoriya goes off on his own to draw the villains away and heroes outside Japan seek to join the fight.,neutral,negative
+163,THE ADVENTURE ZONE: THE ELEVENTH HOUR,"The fifth installment of the series that is based on the podcast from the McElroy family. Taako, Magnus and Merle are trapped in a time loop in a small mining town.",positive,neutral
+164,"DEMON SLAYER: KIMETSU NO YAIBA, VOL. 1",A young charcoal seller must avenge his family by destroying the demon that slaughtered them.,positive,neutral
+165,BEAUTIFUL,A supermodel deals with the effects of a terror attack at an airport in Brussels on her life and appearance.,positive,neutral
+166,THE RED BOOK,The second book in the Billy Harney thriller series. The Chicago detective investigates his own past.,positive,neutral
+167,SHADOWS REEL,"The 22nd book in the Joe Pickett series. A fishing guide’s murder, stolen falcons and a Nazi official’s photo album heighten the danger.",positive,neutral
+168,GAME ON,The 28th book in the Stephanie Plum series. Diesel and Stephanie track the international computer hacker Oswald Wednesday.,positive,neutral
+169,ABSOLUTE FEAR,The fourth book in the Rick Bentz/Reuben Montoy series. The detectives track a serial killer in New Orleans.,positive,neutral
+170,IN HER HIGHLANDER'S BED,"The 11th book in the Highland Brides series. Allissaid MacFarlane starts to fall for Calan Campbell, Laird of Kilcairn.",positive,neutral
+171,I WILL FIND YOU,A man imprisoned for murdering his 3-year-old son becomes convinced his son is still alive and plans an escape.,positive,neutral
+172,HELLO BEAUTIFUL,"In a homage to Louisa May Alcott’s “Little Women,” a young man’s dark past resurfaces as he gets to know the family of his college sweetheart.",positive,neutral
+173,NEVER NEVER,Questions arise when a pair of lovers try to uncover why they suddenly became strangers.,neutral,neutral
+174,SAVED,The Fox News journalist gives his account of the injuries he sustained from a Russian attack while covering the war in Ukraine.,positive,neutral
+175,PARIS,The entrepreneur and pop culture icon shares her personal and professional rise in the age of influencers.,positive,neutral
+176,THE COURAGE TO BE FREE,The Florida governor gives his account of his achievements and shares his opinions about the political left.,positive,neutral
+177,THE LONGEST RACE,The Olympic runner details the abuse and deception she experienced while on an elite running team for Nike.,positive,neutral
+178,STORM WATCH,The 23rd book in the Joe Pickett series. Joe and Nate might be on opposite sides for the first time.,positive,neutral
+179,PINEAPPLE STREET,Three women navigate their roles in a well-to-do family living in Brooklyn Heights.,positive,neutral
+180,WORTHY OPPONENTS,A divorced mother of twins and chief executive of a luxury department store goes against a wealthy investor looking to take it over.,negative,neutral
+181,ENCHANTMENT,The author of “Wintering” shares her journey to reconnect with her sense of wonder and awe.,positive,neutral
+182,THINGS WE HIDE FROM THE LIGHT,The second book in the Knockemout series. A woman with some secrets and the chief of police have different ideas about where things are headed.,positive,neutral
+183,SOUTH TO AMERICA,A wide-ranging collection of stories and histories based in the American South that also illuminate the country as a whole.,positive,neutral
+184,THE BOMBER MAFIA,A look at the key players and outcomes of precision bombing during World War II.,positive,neutral
+185,ICEBERG,Hazel Rothbury stows away on the Titanic.,negative,neutral
+186,FINALLY SEEN,A young girl moves from China to America to be reunited with her family after five years apart.,positive,neutral
+187,HOW TO CATCH THE EASTER BUNNY,The Easter Bunny avoids traps in order to deliver eggs and candy.,positive,neutral
+188,PETE THE CAT: BIG EASTER ADVENTURE,A certain rabbit needs Pete's help.,neutral,neutral
+189,THE GOOD EGG PRESENTS: THE GREAT EGGSCAPE!,Good Egg and his pals escape their carton!,positive,neutral
+190,PETE THE CAT: THE GREAT LEPRECHAUN CHASE,Pete opens a leprechaun catching business.,positive,neutral
+191,"GOOD NIGHT, LITTLE BLUE TRUCK",Blue and Toad offer shelter from a storm to other farm animals.,positive,neutral
+192,THE HUNGER GAMES,"In a dystopia, a girl fights for survival on live TV.",positive,neutral
+193,SHE IS A HAUNTING,"Jade Nguyen travels to Vietnam with her younger sister, Lily, to visit their father who’s restoring an old French colonial house which is haunted.",positive,neutral
+194,OUTLIVE,"A look at recent scientific research on aging and longevity. Read by Peter Attia. 17 hours, 8 minutes unabridged.",positive,neutral
+195,ALL MY KNOTTED-UP LIFE,"The founder of Living Proof Ministries details key moments from her life and her 2018 break with the Southern Baptist movement. Read by the author. 8 hours, 29 minutes unabridged.",positive,neutral
+196,TWENTY THOUSAND FLEAS UNDER THE SEA,The 11th book in the Dog Man series. Piggy returns and the Supa Buddies are sabotaged.,positive,neutral
+197,"SPY X FAMILY, VOL. 9","A gang of assassins and bombs planted throughout a luxury cruiser put Loid, Anya and Yor in harm’s way. ",positive,neutral
+198,"JUJUTSU KAISEN, VOL. 19",Itadori and Fushiguro get separated as they go after a player named Hiromi Higuruma. ,neutral,neutral
+199,DEATH OF THE BLACK WIDOW,Detective Walter O’Brien is obsessed with an escape artist who bludgeoned her kidnapper and avoided police custody.,neutral,neutral
+200,MERCY,The fourth book in the Atlee Pine series. Atlee discovers her twin sister survived an abduction at the age of 6.,positive,neutral
+201,TOM CLANCY: ZERO HOUR,Jack Ryan Jr. appears to be the only person who can stop a second Korean war.,positive,neutral
+202,GETTING EVEN,Two suspense stories: “Yesterday’s Lies” and “Zachary’s Law.”,positive,neutral
+203,ONE NIGHT,A tale of two rival workaholic radio broadcasters who discover there is more to life than just their jobs.,positive,positive
+204,THEN YOU CAME ALONG,"Two romance stories: “Father’s Day” and “Same Time, Next Year.”",positive,neutral
+205,A PLACE TO CALL HOME,Two romance stories: “Megan’s Mate” and “Best Laid Plans.”,positive,neutral
+206,A BRIGHT NEW DAY,Two romance stories: “Borrowed Dreams” and “The Trouble With Caasi.”,positive,neutral
+207,SIMPLY LIES,A former detective becomes the prime suspect in a murder case involving a man with mob ties who was in witness protection.,positive,neutral
+208,THE LAST THING HE TOLD ME,Hannah Hall discovers truths about her missing husband and bonds with his daughter from a previous relationship.,positive,neutral
+209,DARK ANGEL,The second book in the Letty Davenport series. Letty takes an undercover assignment that puts her in harm’s way with a group of hackers.,positive,neutral
+210,THE WAGER,The survivors of a shipwrecked British vessel on a secret mission during an imperial war with Spain have different accounts of events.,neutral,neutral
+211,KILLERS OF THE FLOWER MOON,"The story of a murder spree in 1920s Oklahoma that targeted Osage Indians, whose lands contained oil.",positive,neutral
+212,YOU CAN'T JOKE ABOUT THAT,The co-host of “Gutfeld!” and Fox News contributor gives her take on free speech and comedy.,positive,neutral
+213,CRYING IN H MART,"The daughter of a Korean mother and Jewish American father, and leader of the indie rock project Japanese Breakfast, describes creating her own identity after losing her mother to cancer.",positive,neutral
+214,HANG THE MOON,"Nine years after being cast out, a young woman returns to reclaim her place in her family and comes into her own as a bootlegger.",positive,neutral
+215,CITY OF DREAMS,"The second book in the City trilogy. When a movie is made about his former life, Danny Ryan looks for his cut and seeks to restart his criminal empire.",positive,neutral
+216,WHERE ARE THE CHILDREN NOW?,"In a follow-up to “Where Are the Children?,” Melissa and Mike use their experience of being abducted to search for a missing girl.",positive,neutral
+217,"POVERTY, BY AMERICA",The Pulitzer Prize-winning author of “Evicted” examines the ways in which affluent Americans keep poor people poor.,positive,neutral
+218,I SWEAR,The Democratic congresswoman from California describes challenges she faced before and during her time in office.,positive,neutral
+219,THE DAWN OF EVERYTHING,A reinvestigation of social evolution and suggestions for new ways of organizing society.,positive,neutral
+220,THE RHYTHM OF TIME,"Rahim receives a cellphone from his inventor friend Kasia, which accidentally transports him back to the year 1997.",positive,neutral
+221,BIG TREE,Two sycamore seeds seek solace in the Cretaceous Period after being forced from their mother tree.,negative,neutral
+222,NIC BLAKE AND THE REMARKABLES,Nic and two friends hunt for a powerful magic tool to save her father from imprisonment.,positive,neutral
+223,ONCE THERE WAS,"After the death of her father, who was a veterinarian to mythical creatures, Marjan must now take his place.",positive,neutral
+224,WHAT DO YOU DO WITH AN IDEA?,Giving a new idea the room to grow.,positive,neutral
+225,WOO HOO! YOU'RE DOING GREAT!,A cheerleading chicken boosts readers' self-esteem.,positive,neutral
+226,I WISH YOU MORE,A bounty of good wishes.,positive,neutral
+227,THE BOOK WITH NO PICTURES,Silly songs and sound effects.,negative,positive
+228,GRUMPY MONKEY,Jim Panzee is having a bad day.,negative,negative
+229,SHADOW AND BONE TRILOGY,"The basis of the Netflix series; previously titled ""The Grisha Trilogy.""",positive,neutral
+230,SILVER IN THE BONE,"Tamsin Lark is on a quest to retrieve a magic ring that may break a curse on her brother, Cabell.",positive,neutral
+231,SPELL BOUND,Two rival apprentice sorcerers must work together against the Magical Consortium to rescue their mentors.,positive,neutral
+232,THE LITTLE MERMAID: AGAINST THE TIDE,"Ariel and her siblings must find their abducted sister, Mala, before the Coral Moon approaches.",positive,neutral
+233,IF I SEE YOU AGAIN TOMORROW,"Caught in a time loop, Clark relives the same day over and over until he meets Beau and tries to break the cycle.",positive,neutral
+234,HAPPY PLACE,"A former couple pretend to be together for the sake of their friends during their annual getaway in Maine. Read by Julia Whelan. 11 hours, 4 minutes unabridged.",positive,neutral
+235,EXTREME OWNERSHIP,"Applying the principles of Navy SEALs leadership training to any organization. Read by the authors. 8 hours, 15 minutes unabridged.",positive,neutral
+236,SCHOOL TRIP,The gang from Riverdale Academy Day face the unexpected when their faculty guides on a trip to Paris are replaced at the last minute.,positive,neutral
+237,"ONE PIECE, VOL. 102",Monkey D. Luffy faces Kaido once again while searching for the greatest treasure in the world.,positive,neutral
+238,"KAIJU NO. 8, VOL. 6",Director General Shinomiya must take action while Kikoru comes to the rescue of Kafka.,positive,neutral
+239,FOR WHOM THE BALL ROLLS,The seventh book in the Dog Man series. A new villain has a bone to pick with Dog Man while Petey the Cat starts a new life.,positive,neutral
+240,THE RUSSIAN,The 13th book in the Michael Bennett series. An assassin killing a number of women might disrupt the detective’s wedding plans.,positive,neutral
+241,SUSPECTS,A C.I.A. agent on a covert mission develops a relationship with a woman who is considered fashion royalty and has a tragic past.,positive,neutral
+242,TWO ALONE,"After a plane crash, a businesswoman and a Vietnam veteran must rely on each other in the wilderness.",positive,neutral
+243,LEGACY,Threats put in rhymes and sent from shifting locations escalate as the daughter of a successful fitness celebrity’s own yoga business grows.,negative,neutral
+244,THE JENSENS OF COLORADO,"Three western stories: “Those Jensen Boys,” “The Jensen Brand” and “Heart of the Mountain Man.”",neutral,neutral
+245,SAVE IT FOR SUNDAY,"The second book in the Taylor Callahan, Circuit Rider series. Taylor’s trigger-happy past returns.",positive,neutral
+246,ONLY THE DEAD,The sixth book in the Terminal List series. The killing of a freshman congressman reverberates for decades and James Reece faces a global conspiracy.,positive,positive
+247,FOURTH WING,"Violet Sorrengail is urged by the commanding general, who also is her mother, to become a candidate for the elite dragon riders.",positive,neutral
+248,THE 23RD MIDNIGHT,The 23rd book in the Women’s Murder Club series. Lindsay Boxer tracks a copycat killer.,positive,neutral
+249,THE DADDY DIARIES,The host and executive producer of “Watch What Happens Live” juggles fatherhood and his career.,positive,neutral
+250,QUIETLY HOSTILE,"A new collection of essays detailing personal and professional experiences by the author of “Wow, No Thank You.""",positive,neutral
+251,KING: A LIFE,"A biography of the civil rights icon Martin Luther King Jr., which includes new archival material and reflections from some who worked, lived and fought with him.",positive,neutral
+252,YELLOWFACE,"June Hayward, a struggling writer, must conceal the fact that she stole Athena Liu’s just-finished masterpiece after Liu’s sudden death.",positive,neutral
+253,QUEEN CHARLOTTE,Charlotte of Mecklenburg-Strelitz weds King George III and contends with the politics of the court.,positive,neutral
+254,LOOK FOR ME THERE,The Emmy Award–winning journalist details how he grieved for his late father and sought to make his own way.,positive,neutral
+255,THE SHADOW DOCKET,The legal scholar examines the Supreme Court’s authority to issue emergency rulings and the potential consequences of doing so.,positive,neutral
+256,MEET ME AT THE LAKE,"A decade after a one-day adventure, Will appears again in Fern’s life at her mother’s lakeside resort.",positive,neutral
+257,THE MIDNIGHT LIBRARY,Nora Seed finds a library beyond the edge of the universe that contains books with multiple possibilities of the lives one could have lived.,positive,neutral
+258,THE ESCAPE ARTIST,"Rudolf Vrba, who became one of the first Jews to escape from Auschwitz, warned others about the death camp.",positive,neutral
+259,EMPIRE OF THE SUMMER MOON,"The story of Quanah Parker, the last chief of the Comanches.",positive,neutral
+260,THE SUN AND THE STAR,The demigods Will and Nico embark on a dangerous journey to the Underworld to rescue an old friend.,positive,neutral
+261,THE EYES AND THE IMPOSSIBLE,A dog who serves as the eyes for three bison in a park enclosure devises a plan to free them.,positive,neutral
+262,SKANDAR AND THE PHANTOM RIDER,Skandar and his friends investigate how immortal unicorns are being slain.,positive,neutral
+263,THE CRAYONS GO BACK TO SCHOOL,The crayons go back to school and can't wait for art class.,positive,neutral
+264,BECAUSE I HAD A TEACHER,An ode to teachers.,positive,neutral
+265,I LOVE DAD WITH THE VERY HUNGRY CATERPILLAR,Celebrating dad with help from that insatiable insect.,positive,positive
+266,THE ONE AND ONLY,"The stories of Ivan, Bob and Ruby.",positive,positive
+267,SOLITAIRE,"Tori Spring is determined to find out who's behind the blog called Solitaire, which has caused serious pranks at her school.",positive,neutral
+268,PAINTED DEVILS,Vanja inadvertently starts a cult and Emeric is sent to make sure she's not committing religious fraud.,neutral,neutral
+269,WARRIOR GIRL UNEARTHED,Perry and Pauline Firekeeper-Birch discover that a local university is holding on to deceased Anishinaabe remains.,positive,neutral
+270,I HAVE SOMETHING TO TELL YOU—FOR YOUNG ADULTS,The educator and advocate describes growing up gay in a small Midwestern town.,positive,neutral
+271,THE COVENANT OF WATER,"Three generations of a family living on South India’s Malabar Coast suffer the loss of a family member by drowning. Read by the author. 31 hours, 16 minutes unabridged.",positive,neutral
+272,IDENTITY,"After her roommate is killed by a con artist, a former Army brat builds a new life at her mother's home in Vermont. Read by January LaVoy. 15 hours, 4 minutes unabridged.",positive,neutral
+273,"MY HERO ACADEMIA, VOL. 34",The No. 1 hero in the United States goes to Japan to take on a global threat.,positive,neutral
+274,SURPRISINGLY SARAH,The seventh book in the Emmie & Friends series. Sarah and Leo’s friendship is tested when she develops a crush on his friend Ben.,positive,neutral
+275,SPARRING PARTNERS,"Three novellas: “Homecoming,” “Strawberry Moon” and “Sparring Partners.”",neutral,neutral
+276,RISING TIGER,The 21st book in the Scot Harvath series. The American spy faces dangers on a mission in an unfamiliar culture.,positive,negative
+277,CLIVE CUSSLER'S DARK VECTOR,The 19th book in the NUMA Files series. A search for lost treasure puts Kurt Austin and Joe Zavala in the middle of a cyber-war.,positive,neutral
+278,THE NINTH MONTH,A marketing executive becomes pregnant as wealthy women go missing.,neutral,neutral
+279,THE BEST IS YET TO COME,"After the death of her twin brother, Hope starts a relationship with a former Marine.",positive,neutral
+280,FEAR THY NEIGHBOR,Alison Marshall discovers a dark side to Palmetto Island.,positive,neutral
+281,THE CHALLENGE,Parents of children who have gone missing on a dangerous peak in Montana form a search-and-rescue mission.,positive,neutral
+282,THE FIVE-STAR WEEKEND,"After a tragedy, a popular food blogger brings friends from distinct times in her life to spend a weekend in Nantucket.",positive,neutral
+283,"LOVE, THEORETICALLY",A theoretical physicist finds her theories on love are tested by an experimental physicist.,positive,neutral
+284,ICEBREAKER,Anastasia might need the help of the captain of a college hockey team to get on the Olympic figure skating team.,neutral,positive
+285,THE IN-BETWEEN,A hospice nurse shares some of her most impactful experiences and questions some of society's beliefs around end-of-life care.,positive,neutral
+286,PAGEBOY,The Oscar-nominated star details discovering himself as a trans person and navigating abuse in Hollywood.,positive,neutral
+287,1964,A collection of photographs taken with a 35-millimeter camera during the rise of the Beatles from the end of 1963 through early 1964.,positive,neutral
+288,CROSS DOWN,John Sampson seeks justice after Alex Cross gets injured.,positive,neutral
+289,THE BOOK OF CHARLIE,The Washington Post columnist shares stories and wisdom he learned from a neighbor who was more than a century old.,positive,positive
+290,MY FRIEND ANNE FRANK,A memoir by the Holocaust survivor who was first referred to as Lies Goosens in Anne Frank’s diary.,positive,neutral
+291,THE PUPPETEERS,The Fox News contributor and former congressman argues that liberals remain in power no matter who gets elected.,negative,neutral
+292,TWISTED LOVE,The first book in the Twisted series. Secrets emerge when Ava explores things with her brother’s best friend.,positive,neutral
+293,THE HOUSEMAID,Troubles surface when a woman looking to make a fresh start takes a job in the home of the Winchesters.,neutral,neutral
+294,HAPPY-GO-LUCKY,The humorist portrays personal and public upheavals of his life in its seventh decade and the world in the time of a pandemic.,positive,neutral
+295,PAPPYLAND,How Julian Van Winkle III worked to preserve the legacy of his family’s brand of Kentucky bourbon.,positive,neutral
+296,"CATCH A CRAYFISH, COUNT THE STARS",Over 70 adventures and activities for outdoor kids.,positive,neutral
+297,CROWNED,Reimagined fairy and folk tales with extensive photography.,positive,neutral
+298,WORST BROOMMATE EVER!,"Old rivals, Heidi and Melanie find out they're roommates at the Broomsfield Academy.",positive,neutral
+299,WHY A DAUGHTER NEEDS A DAD,A father's love for his daughter.,positive,neutral
+300,WHY A SON NEEDS A DAD,The bond between father and son.,positive,positive
+301,HOW TO CATCH A DADDYSAURUS,"The Catch Club Kids attempt to snare the Daddysaurus, known for his acts of kindness and bravery.",positive,negative
+302,HOW TO CATCH A MERMAID,A young girl attempts to catch a mermaid and befriend her.,positive,neutral
+303,GIRLS LIKE GIRLS,Two girls struggle with their feelings for each other.,neutral,neutral
+304,"IMOGEN, OBVIOUSLY","Imogen Scott, who is straight, goes along with a tale told by her friend Lili that the two of them dated.",positive,neutral
+305,MILES MORALES SUSPENDED,Miles Morales encounters a termite with a secret that may destroy the world's history – particularly Black and brown history.,positive,neutral
+306,THE REAL ANTHONY FAUCI,"The anti-vaccine advocate gives his take on the former chief medical advisor to the president. Read by Bruce Wagner. 27 hours, 20 minutes unabridged.",positive,neutral
+307,"LORE OLYMPUS, VOL. 4","As gossip about them swirls, Persephone and Hades choose to take a break to focus on their own issues.",positive,neutral
+308,FGTEEV: OUT OF TIME!,"The FGTeeV family encounter a T-Rex, a knight and angry space invaders.",positive,neutral
+309,"DRAGON BALL SUPER, VOL. 18","As new threats become known, Goku and his friends must defend the planet again.",positive,negative
+310,"GOODBYE, ERI","After his mother dies, a young filmmaker meets a mysterious girl who takes his life in new directions.",positive,neutral
+311,APPLES NEVER FALL,The Delaney siblings suspect their father of causing the disappearance of their mother.,neutral,neutral
+312,DANGER ZONE,Two thrillers: “The Art of Deception” and “Risky Business.”,neutral,neutral
+313,DEVIOUS,"Called to investigate a murder, the New Orleans detective Reuben Montoya discovers that the victim — found on a cathedral altar in a yellowed bridal gown — is an old high school friend.",positive,neutral
+314,DESOLATION CREEK,The fifth book in the Smoke Jensen Novel of the West series. Jensen goes after the outlaws who attacked his friend.,positive,neutral
+315,THE PRESIDENT'S DAUGHTER,"Matthew Keating, a past president and former Navy SEAL, goes on his own to find his abducted teenage daughter.",positive,neutral
+316,THE COLLECTOR,The 23rd book in the Gabriel Allon series. The art restorer teams up with a thief to find a missing painting and works to prevent a conflict between Russia and the West.,positive,neutral
+317,TOO LATE,Dangers develop when a drug trafficker becomes obsessed with a woman who has a mutual attraction to a D.E.A. agent.,neutral,neutral
+318,A SOUL OF ASH AND BLOOD,The fifth book in the Blood and Ash series. The love between Poppy and Casteel faces new challenges.,positive,positive
+319,AMERICAN PROMETHEUS,A biography of J. Robert Oppenheimer. Winner of the Pulitzer Prize in 2006 and an inspiration for the film “Oppenheimer.”,positive,neutral
+320,JACKIE,A biography of the former first lady Jacqueline Kennedy Onassis.,positive,neutral
+321,BEYOND THE STORY,An oral history of the K-pop group that is celebrating its 10th anniversary.,positive,neutral
+322,THE FOURTH TURNING IS HERE,One of the authors of “The Fourth Turning” gives reflections on the cycles of history and makes predictions of potential outcomes generated by the present era of polarization.,positive,neutral
+323,BLOWBACK,"The former chief of staff at the Department of Homeland Security, who revealed himself to be the author of “A Warning,” gives his take on where Trumpism might be headed.",positive,neutral
+324,CROOK MANIFESTO,"In 1970s Harlem, a furniture store owner and his partner in crime find themselves up against shady and violent forces.",positive,neutral
+325,EASY MONEY,The actor recounts his misadventures in cryptocurrency and analyzes its decline in value.,positive,neutral
+326,THE GLASS CASTLE,The author recalls how she and her siblings were constantly moved from one bleak place to another.,positive,neutral
+327,SKANDAR AND THE UNICORN THIEF,Skandar dreams of becoming a unicorn rider and competing in the Chaos Cup.,positive,neutral
+328,THE PIGEON HAS TO GO TO SCHOOL!,Pigeon deals with the anxieties of going to school for the first time.,positive,positive
+329,"TIME FOR SCHOOL, LITTLE BLUE TRUCK",Blue gives a friend a ride to school.,positive,neutral
+330,INVISIBLE THINGS,A look at the invisible things that make up the human experience.,positive,neutral
+331,KNIGHT OWL,A young owl must prove himself when an intruder comes to the castle.,positive,neutral
+332,VILLAINS,The stories of Disney’s most feared characters.,positive,neutral
+333,CHRONICLES OF THE AVATAR,"The prequel to ""Avatar: The Last Airbender"" follows the adventures of Avatars Kyoshi and Yangchen.",positive,positive
+334,DIVINE RIVALS,Two young rival journalists find love through a magical connection.,positive,neutral
+335,THE BALLAD OF NEVER AFTER,"After vowing to never trust the Prince of Hearts again, Evangeline finds that he may be the only one she can trust.",neutral,neutral
+336,YOU'RE NOT SUPPOSED TO DIE TONIGHT,"Charity, a counselor at a horror-simulation camp, finds herself in a real-life thriller.",positive,neutral
+337,LIGHT BRINGER,"The sixth book in the Red Rising series. Darrow goes on an interplanetary adventure in the hope of defending Mars from conquest by Lysander. Read by Tim Gerard Reynolds. 30 hours, 8 minutes unabridged.",positive,neutral
+338,WOOL,A community lives underground in a dystopian world. Everything changes when one person decides to go outside. Read by Edoardo Ballerini. 15 hours unabridged.,positive,neutral
+339,THE BAD GUYS IN LET THE GAMES BEGIN,The 17th book in the Bad Guys series. The wannabe heroes return and a major shift in perception takes place.,positive,neutral
+340,KAREN'S HAIRCUT,The seventh book in the Baby-Sitters Little Sister Series. A new haircut adds to Karen’s anxieties.,positive,neutral
+341,"ONE PIECE, VOL. 103",The fight between Luffy and Kaido intensifies as other skirmishes erupt.,positive,neutral
+342,TEACHER'S PET,The second book in the Sweet Valley Twins graphic novel series. Jessica seeks recognition from her teacher for her dancing. Adapted by Nicole Andelfinger.,positive,negative
+343,BEST FRIENDS,The first book in the Sweet Valley Twins graphic novel series. The twins discover some differences between them as they start middle school. Adapted by Nicole Andelfinger.,positive,neutral
+344,NIMONA,A villain with a vendetta finds his shapeshifting sidekick to be mysterious and unpredictable. The basis of the animated film.,positive,neutral
+345,NO PLAN B,The 27th book in the Jack Reacher series. Reacher goes after a killer but is unaware of the bigger implications.,positive,neutral
+346,BILLY SUMMERS,A killer for hire who only takes out bad guys seeks redemption as he does one final job.,positive,neutral
+347,FEAR NO EVIL,The 29th book in the Alex Cross series. Cross fights the mastermind who has stalked him for years.,positive,neutral
+348,THE HOTEL NANTUCKET,The new general manager of a hotel far from its Gilded Age heyday deals with the complicated pasts of her guests and staff.,positive,neutral
+349,HOSTILE TERRITORY,The fifth book in the Preacher and MacCallister western series. A gang of outlaws appear as a hidden fortune of gold and silver is sought.,positive,neutral
+350,WHISPERS AT DUSK,The first installment in the Blackbird trilogy. Victims who are drained of blood are found along Europe’s riverbanks.,positive,neutral
+351,TOM LAKE,"Three daughters, who return to their family orchard in the spring of 2020, learn about their mother’s relationship with a famous actor.",positive,neutral
+352,"RED, WHITE AND ROYAL BLUE","A staged friendship between the son of the president and his rival, the Prince of Wales, evolves into a secret and potentially dangerous romance.",positive,neutral
+353,LION & LAMB,"The Eagles’ starting quarterback is murdered and his wife, a Grammy-winning singer, is the prime suspect.",positive,negative
+354,NONE OF THIS IS TRUE,"After meeting a woman who shares the same birthday, Alix Summer becomes the subject of her own true crime podcast.",positive,neutral
+355,THE HEAVEN & EARTH GROCERY STORE,Secrets held by the residents of a dilapidated neighborhood come to life when a skeleton is found at the bottom of a well.,positive,neutral
+356,QUANTUM SUPREMACY,The ways in which quantum computing might be a benefit to society.,positive,negative
+357,THINK AGAIN,An examination of the cognitive skills of rethinking and unlearning that could be used to adapt to a rapidly changing world.,positive,neutral
+358,EVERYTHING I KNOW ABOUT LOVE,The British journalist shares stories and observations; the basis of the TV series.,positive,neutral
+359,WE DON'T EAT OUR CLASSMATES!,Penelope Rex must control her urge to eat the children in her class.,positive,neutral
+360,THE DAY YOU BEGIN,A group of school children embrace their differences.,positive,neutral
+361,HOUSE OF ROOTS AND RUIN,"In this sequel to ""House of Salt and Sorrows,"" Verity runs away to the land of Bloem, where she is attracted to the impossibly handsome Alexander Laurent.",positive,neutral
+362,"HEARTSTOPPER, VOL. 1",Charlie and Nick deal with the ups and downs of high school at the same time they grow closer together.,positive,neutral
+363,"JUJUTSU KAISEN, VOL. 20",Fushiguro and Reggie’s battle might be coming to an end while reincarnated sorcerers and a cursed spirit are involved in another fight.,neutral,neutral
+364,"HEARTSTOPPER, VOL. 2","The second book in the Heartstopper series. Nick discovers things about the people around him, and about himself.",positive,neutral
+365,"HEARTSTOPPER, VOL. 3",The third book in the Heartstopper series. Charlie and Nick learn about the coming-out process as they officially become boyfriends.,positive,neutral
+366,TEENAGE MUTANT NINJA TURTLES: THE LAST RONIN,"A lone Turtle goes on a mission to get justice for his family in a post-apocalyptic New York. Illustrated by Esau Escorza, Isaac Escorza and Ben Bishop.",positive,neutral
+367,"HEARTSTOPPER, VOL. 4","The fourth book in the Heartstopper series. As the school year starts, Charlie and Nick face challenges of revealing who they are and what they feel.",positive,neutral
+368,THE GIRL WHO SURVIVED,"Two decades after a killing spree left her orphaned, Kara McIntyre’s brother, who was imprisoned for the murders, is released.",positive,neutral
+369,VINCE FLYNN: OATH OF LOYALTY,"The 21st book in the Mitch Rapp series. President Cook, a team of assassins and a killer known as Legion confront Rapp on different fronts.",positive,neutral
+370,TOTAL CONTROL,"When a plane carrying an executive at a technology conglomerate crashes into the Virginia countryside, Sidney Archer seeks the truth behind what caused it.",positive,neutral
+371,SHADOW DANCE,The eighth book in the Shadow Riders series. Geno connects to Amaranthe in the shadows and goes after his parents’ killer.,positive,neutral
+372,THE HIGH NOTES,"Beginning at age 12, Iris Cooper endures a number of hardships in hopes of finding success as a singer.",neutral,neutral
+373,WEATHER THE STORM,Two thrillers: “The Welcoming” and “Without a Trace.”,positive,neutral
+374,VINCE FLYNN: CODE RED,The 22nd book in the Mitch Rapp series. Rapp and his team try to foil a plot by Russia without being discovered.,positive,negative
+375,HOLLY,The private detective Holly Gibney investigates whether a married pair of octogenarian academics had anything to do with Bonnie Dahl’s disappearance.,neutral,neutral
+376,23 1/2 LIES,"Three thrillers: “23 ½ Lies” (written with Maxine Paetro), “Fallen Ranger” (written with Andrew Bourelle) and “Watch Your Back” (written with Loren D. Estleman).",neutral,neutral
+377,THINGS WE LEFT BEHIND,The third book in the Knockemout series. A mogul and a small-town librarian share a dark secret from their past.,positive,neutral
+378,FALL OF RUIN AND WRATH,"In a world where only nine cities were spared divine destruction, Calista must decide whether to follow her intuition to safety or court calamity by pursuing a love.",positive,neutral
+379,ELON MUSK,"The author of “The Code Breaker” traces Musk’s life and summarizes his work on electric vehicles, private space exploration and artificial intelligence.",positive,neutral
+380,COUNTING THE COST,A behind-the-scenes account of the reality TV series “19 Kids and Counting” and a portrayal of life inside the Duggar family.,positive,neutral
+381,SCATTERSHOT,A memoir by the lyricist best known for his collaborations with Elton John.,positive,neutral
+382,TO INFINITY AND BEYOND,"Science and pop culture intertwine in this exploration of the cosmos, which includes parallel worlds and time travel.",positive,positive
+383,DOPPELGANGER,The author of “On Fire” and “No Is Not Enough” explores the mirror-worlds of online paranoia and conspiracy theories in a divided culture.,positive,neutral
+384,THE VASTER WILDS,"A servant girl, who escapes with almost nothing from a colonial settlement, finds the beliefs she learned are tested.",positive,neutral
+385,PUNISHED FOR DREAMING,"A professor at Teachers College, Columbia University, looks at the impact of some public-school policies on Black children over the last four decades.",positive,neutral
+386,ASSISTANT TO THE VILLAIN,Evie Sage gets a job doing unspecified office duties for the most infamous villain in the kingdom of Rennedawn.,positive,neutral
+387,"HEAVEN OFFICIAL'S BLESSING: TIAN GUAN CI FU, VOL. 7",Xie Lian joins with the ghost king Hua Cheng to take on White No-Face.,positive,neutral
+388,A HORSE NAMED SKY,The coming-of-age story of a young colt named Sky.,positive,neutral
+389,THE OFFICIAL HARRY POTTER COOKBOOK,Forty plus recipes inspired by the films.,positive,neutral
+390,CHINESE MENU,The stories behind American Chinese cuisine.,positive,positive
+391,THE LOST LIBRARY,"When a little free library appears seemingly overnight in the small town of Martinville, mysteries unfold.",positive,neutral
+392,JUST BECAUSE,Wisdom about life’s contradictions.,positive,neutral
+393,GRUMPY MONKEY DON'T BE SCARED,Jim Panzee and his friends brave the dark jungle to collect Halloween treats.,positive,positive
+394,DON'T LET THE PIGEON DRIVE THE SLEIGH!,The pigeon has his sights set on driving Santa's sleigh.,positive,neutral
+395,BLUEY: SLEEPYTIME,Bingo wants to do a big girl sleep and wake up in her own bed.,positive,neutral
+396,"THE BAD SEED PRESENTS: THE GOOD, THE BAD, AND THE SPOOKY",Bad Seed seeks the perfect Halloween costume.,positive,neutral
+397,CREEPY PAIR OF UNDERWEAR,Jasper Rabbit deals with a pair of glowing underwear that won't go away.,positive,negative
+398,CREEPY CRAYON!,"Jasper finds a crayon that helps him in school, or so it seems.",neutral,neutral
+399,THIS WINTER,"Siblings Tori, Charlie and Oliver deal with life challenges over the holiday season.",positive,neutral
+400,THE SPIRIT BARES ITS TEETH,Silas Bell can hear the ghosts of missing students at Braxton's begging for help.,positive,neutral
+401,FOXGLOVE,"Fate, Death's brother, is determined to have Signa for himself at any cost.",positive,neutral
+402,HOUSE OF MARIONNE,"To flee assassins and hide the dark magic within her, Quell takes refuge at the House of Marionne with her grandmother.",positive,neutral
+403,PAYBACK IN DEATH,"The 57th book of the In Death series. Eve Dallas looks into the death of an internal affairs captain. Read by Susan Ericksen. 13 hours, 54 minutes unabridged.",positive,neutral
+404,THE RUNNING GRAVE,"The seventh book in the Cormoran Strike series. Strike's business partner, Robin Ellacott, goes inside a cult to rescue someone who has joined it. Read by Robert Glenister. 34 hours, 14 minutes unabridged.",positive,neutral
+405,ENOUGH,"The former special assistant to President Trump and his chief of staff, Mark Meadows, details events surrounding the crisis of conscience she faced. Read by the author. 11 hours, 36 minutes unabridged.",positive,neutral
+406,THICKER THAN WATER,"The Emmy Award-winning actor describes setbacks she faced and her journey to find a sense of belonging. Read by the author. 8 hours, 59 minutes unabridged.",positive,neutral
+407,THE DEMOCRAT PARTY HATES AMERICA,"The Fox News host and author of “American Marxism” argues for the defeat of the Democratic Party. Read by Jeremy Lowell. 11 hours, 21 minutes unabridged.",positive,neutral
+408,HOOKY VOL. 3,"Twin witches Dani and Dorian, along with other members of the kingdom, band together to prevent darkness from having its way.",positive,neutral
+409,"MY HERO ACADEMIA, VOL. 35",The heroes and villains regroup before what might prove to be the ultimate war.,positive,neutral
+410,INVESTIGATORS: ALL TIDE UP,"The seventh book in the InvestiGators series. When a delirious cruise captain is found at sea, the search for his ship and its passengers gets underway.",positive,neutral
+411,CAT ON THE RUN IN CAT OF DEATH!,"Princess Beautiful, the world's biggest cat video star, tries to avoid being captured as she attempts to prove her innocence.",positive,neutral
+412,"FIVE NIGHTS AT FREDDY'S: FAZBEAR FRIGHTS, VOL. 1",Three stories adapted into a graphic novel by Christopher Hastings.,neutral,positive
+413,THE WHITTIERS,"After tragedy strikes, six adult children return to the family home without their parents for the first time.",positive,neutral
+414,THE NOISE,A strange vibration rises out of a forest near Mount Hood.,negative,neutral
+415,THE WISH,"Maggie Dawes, a renowned travel photographer, struggles with a medical diagnosis over Christmas.",positive,negative
+416,CLIVE CUSSLER'S HELLBURNER,The 16th book in the Oregon Files series. A criminal syndicate has a torpedo that could obliterate entire cities.,positive,neutral
+417,THE RECOVERY AGENT,"When her family’s home is threatened, Gabriela Rose goes with her ex-husband to seek lost treasure in the jungles of Peru.",positive,neutral
+418,THE EXCHANGE,"In a sequel to “The Firm,” Mitch McDeere, who is now a partner at the world’s largest law firm, gets caught up in a sinister plot.",positive,neutral
+419,TWO TWISTED CROWNS,The second book in the Shepherd King series. Elspeth and Ravyn go on a quest to save the kingdom.,positive,neutral
+420,WILDFIRE,The second book in the Maple Hills series. Two summer camp counselors who previously had a one-night stand may run afoul of the camp’s rules.,positive,neutral
+421,A LITTLE LIFE,"Four college friends, one with a traumatic past, move to New York seeking fame and fortune.",positive,neutral
+422,JUDGMENT PREY,The 33rd book in the Prey series. Davenport and Flowers investigate the murder of a federal judge and his two young sons.,positive,neutral
+423,PREQUEL,The MSNBC host and co-author of “Bag Man” details a campaign to overthrow the U.S. government and install authoritarian rule prior to and during our involvement in World War II.,positive,neutral
+424,WORTHY,The actress and talk-show host describes personal and professional difficulties she encountered and her journey to finding self-love.,positive,neutral
+425,BEHIND THE SEAMS,The country music legend shares stories about her favorite outfits she has worn on and off the stage.,positive,neutral
+426,DEMOCRACY AWAKENING,The historian and author of the newsletter “Letters From an American” shares her views on the current political moment.,positive,neutral
+427,KILLING THE WITCHES,"The 13th book in the conservative commentator’s Killing series gives a portrayal of the events of 1692 and 1693 in Salem Village, Mass.",positive,neutral
+428,GOING INFINITE,The author of “The Big Short” and “The Premonition” chronicles the rise and fall of Sam Bankman-Fried and FTX.,positive,neutral
+429,THE ARMOR OF LIGHT,The fifth book in the Kingsbridge series. Change and turmoil affect various aspects of society in the latter part of the 18th century.,positive,neutral
+430,TO RESCUE THE CONSTITUTION,The chief political anchor for Fox News gives an account of important actions taken by George Washington.,positive,neutral
+431,THE HUNDRED YEARS' WAR ON PALESTINE,"An account of the history of settler colonialism and resistance, based on untapped archival materials and reports.",positive,neutral
+432,ISRAEL,A chronological timeline of the country and personal anecdotes by the author.,positive,neutral
+433,AMERICAN DEMON,An account of the Cleveland director of public safety Eliot Ness’s search for a killer known as the Mad Butcher of Kingsbury Run in 1934.,positive,neutral
+434,WINGS OF FIRE: A GUIDE TO THE DRAGON WORLD,A deeper dive into the legends of the 10 dragon tribes.,positive,neutral
+435,THE HARRY POTTER WIZARDING ALMANAC,An official companion to the seven Harry Potter novels.,positive,neutral
+436,REMEMBER US,The coming-of-age story of a girl named Sage set in 1970s and '80s Brooklyn.,positive,neutral
+437,THE PUPPETS OF SPELHORST,The first of the Norendy Tales series relates the misadventures of five puppets.,positive,neutral
+438,HOW TO CATCH A WITCH,The Catch Club Kids attempt to snare a witch on Halloween.,positive,neutral
+439,THE LEAF THIEF,Squirrel attempts to figure out who has stolen his leaves.,neutral,neutral
+440,HOW TO CATCH A MONSTER,A boy attempts to catch the monster in his closet.,positive,neutral
+441,THE WILD ROBOT,"Roz the robot adapts to her surroundings on a remote, wild island.",positive,negative
+442,DORK DIARIES,Nikki Maxwell navigates the halls of middle school.,positive,neutral
+443,CURIOUS TIDES,Emory develops new magical powers after a ritual gone awry leaves some of her friends drowned in a forbidden cave.,positive,neutral
+444,A STUDY IN DROWNING,Dark forces try to thwart Preston and Effy's efforts to unravel the mysteries of author Emrys Myrddin's Hiraeth Manor.,positive,neutral
+445,NIGHT OF THE WITCH,"Otto, working undercover among witch hunters, and Fritzi, a witch, must work together to vanquish a common enemy.",positive,neutral
+446,THE SECRET,"The 28th book in the Jack Reacher series. It’s 1992 and Reacher looks into the cause of a string of mysterious deaths. Read by Scott Brick. 9 hours, 14 minutes unabridged.",positive,neutral
+447,THE WOMAN IN ME,"The Grammy Award-winning pop star details her personal and professional experiences, including the years she spent under a conservatorship overseen by her father. Read by Michelle Williams. 5 hours, 31 minutes unabridged.",positive,neutral
+448,MAKING IT SO,"The Olivier Award-winning actor recounts his classical theater training and onscreen portrayals of the iconic roles of Jean-Luc Picard and Professor Charles Xavier. Read by the author. 18 hours, 50 minutes unabridged.",positive,neutral
+449,"CHAINSAW MAN, VOL. 12",A student who is having trouble navigating high school might be brought into contact with Chainsaw Man.,neutral,neutral
+450,THE MYSTERIES,"A battered knight, who was sent on a mission with others by the king to uncover the source of calamities besetting the kingdom, is the only one who returns.",positive,neutral
+451,STACEY'S MISTAKE,The 14th book in the Baby-Sitters Club series. Members of the club have different reactions to visiting New York City.,positive,neutral
+452,"LORE OLYMPUS, VOL. 5","While Zeus wants to bring Persephone to justice because of her bloody secret, Hades searches for her in the depths of the Underworld.",positive,neutral
+453,"SPY X FAMILY, VOL. 10",A child who lives a somewhat unremarkable life might face great danger.,neutral,neutral
+454,"KAIJU NO. 8, VOL. 8","While Reno seems to be further along in his training, conditions make it so Iharu is the one who must go into action.",neutral,neutral
+455,A FLICKER IN THE DARK,"When teenage girls go missing, a psychologist in Baton Rouge grapples with echoes from her past.",positive,neutral
+456,THE FAMILY UPSTAIRS,"Libby Jones learns the identity of her parents and inherits a London mansion, but this comes with a mystery of multiple murders.",neutral,neutral
+457,THE HORSEWOMAN,"As the Paris Olympics draw near, a mother and daughter, who are champion horse riders, compete against each other.",positive,neutral
+458,SEVEN GIRLS GONE,"The fourth in the Quinn and Costa thriller series. When women are killed in a small bayou town, a police detective calls in a favor from a friend on the F.B.I.’s Mobile Response Team.",positive,neutral
+459,IRON FLAME,The second book in the Empyrean series. Violet Sorrengail’s next round of training might require her to betray the man she loves.,positive,neutral
+460,THE EDGE,The second book in the 6:20 Man series. Travis Devine investigates the murder of the C.I.A. operative Jenny Silkwell in rural Maine.,positive,neutral
+461,SYSTEM COLLAPSE,The seventh book in the Murderbot Diaries series. The Barish-Estranza corporation might take a colony of humans to use as a free workforce.,positive,neutral
+462,THE LITTLE LIAR,"The actions of an 11-year-old boy help facilitate the delivery of Jewish residents, including his family, to Auschwitz.",positive,neutral
+463,THE NARROW ROAD BETWEEN DESIRES,Things go awry when Bast accepts a gift.,negative,neutral
+464,RESURRECTION WALK,The seventh book in the Lincoln Lawyer series. Haller and Bosch team up to prove the innocence of a woman in prison for killing her husband.,positive,neutral
+465,MY NAME IS BARBRA,The EGOT winner chronicles her journey in show business and reveals details about some of her personal relationships.,positive,neutral
+466,MY EFFIN' LIFE,The musician known for his work with the band Rush chronicles his life as the child of Holocaust survivors and his time in the limelight.,positive,neutral
+467,TIRED OF WINNING,The chief Washington correspondent for ABC News looks at Donald Trump’s impact on the Republican Party.,positive,neutral
+468,GHOSTS OF HONOLULU,"The story of a Japanese American naval intelligence agent, a Japanese spy and events in Hawaii before the start of World War II.",positive,neutral
+469,TEDDY AND BOOKER T.,The Fox News host gives an account of the relationship between President Theodore Roosevelt and Booker T. Washington.,positive,neutral
+470,ALL THE LIGHT WE CANNOT SEE,The lives of a blind French girl and a gadget-obsessed German boy before and during World War II.,positive,neutral
+471,THE CHRISTMAS FIX,"A home renovation expert, who brings a TV crew before the holidays to a town impacted by a hurricane, feels both attraction and disdain for the town manager.",positive,neutral
+472,THE STORYTELLER,A memoir by the musician known for his work with Foo Fighters and Nirvana.,positive,neutral
+473,THE BIG CHEESE,The Big Cheese learns a lesson in humility.,positive,neutral
+474,HOW TO CATCH A TURKEY,Students try to catch a runaway turkey before their Thanksgiving play.,positive,positive
+475,HOW TO CATCH SANTA CLAUS,The How to Catch Kids attempt to snare Santa Claus.,positive,neutral
+476,DR. SEUSS'S HOW THE GRINCH LOST CHRISTMAS!,The Grinch enters a Christmas tree decorating contest in Who-ville.,positive,neutral
+477,HOW TO CATCH A REINDEER,The Catch Club Kids attempt to nab Comet the reindeer.,positive,neutral
+478,THE LAST KIDS ON EARTH,Jack and his friends fight for their lives through the zombie apocalypse.,positive,neutral
+479,ONCE UPON A BROKEN HEART,"The story of Evangeline Fox, Jacks, the Prince of Hearts and the pursuit of true love.",positive,neutral
+480,MURTAGH,"Murtagh and his dragon, Thorn, must find and outwit a mysterious witch.",positive,neutral
+481,NIGHTBANE,"In this sequel to ""Lightlark,"" Isla must chose between her two powerful lovers.",positive,neutral
+482,POWERLESS,"Forbidden love is in the air when Paedyn, an Ordinary, and Kai, an Elite, become romantically involved.",positive,negative
+483,THE WAY I AM NOW,Eden and Josh decide to give their relationship another chance despite the emotional baggage they both carry.,positive,neutral
+484,WHAT THE RIVER KNOWS,Inez Olivera sets sail to investigate the mysterious deaths of her parents in 1884 Egypt.,positive,neutral
+485,DARK HEIR,"In this sequel to ""Dark Rise,"" Will must keep his true identity a secret from his companions.",positive,neutral
+486,DIRTY THIRTY,"The 30th book in the Stephanie Plum series. Plum tracks a local jeweler’s former security guard and has an overnight stakeout with relatives. Read by Lorelei King and the author. 8 hours, 2 minutes unabridged.",positive,negative
+487,INFLUENCERS,"The fifth book in the Cat Kid Comic Club series. As publication seems possible, the baby frogs feel doubt.",positive,neutral
+488,THE BAD GUYS IN LOOK WHO'S TALKING,The 18th book in the Bad Guys series. New revelations emerge as one character finds her voice.,positive,neutral
+489,"JUJUTSU KAISEN, VOL. 21",Hakari and Panda get separated when they search for Kashimo at the Tokyo No. 2 Colony.,positive,neutral
+490,"ONE PIECE, VOL. 104",The battle between Luffy and Kaido approaches an end.,positive,neutral
+491,WITHOUT A TRACE,Charles Vincent meets someone who ignites his passion and must decide whether to walk away from his perfect-from-the-outside life.,positive,neutral
+492,TOM CLANCY: RED WINTER,The 22nd book in the Jack Ryan series. Ryan goes behind the Berlin Wall in 1985 to investigate an East German defector.,positive,neutral
+493,THE JAILHOUSE LAWYER,A young lawyer winds up in an Alabama jail that remains mysteriously crowded.,positive,neutral
+494,"GIRL, FORGOTTEN",U.S. Marshal Andrea Oliver goes to Longbill Beach to protect a judge and winds up investigating a cold case from 1982.,positive,neutral
+495,FOREVER UNDER THE MISTLETOE,Two holiday stories: “When Christmas Comes” and “Christmas Letters.”,positive,neutral
+496,BRING ME HOME FOR CHRISTMAS,"Still trying to get over the college boyfriend who broke her heart, a young woman ends up stranded in his town — and with him.",positive,neutral
+497,WYOMING PROUD,The 12th book in the Wyoming Men series. Erianne Mitchell carries a secret with her to Wyoming. A dashing architect follows her there in hopes of winning back her trust.,positive,neutral
+498,OATH AND HONOR,The former congresswoman from Wyoming recounts how she helped lead the Select Committee to Investigate the Jan. 6. Attack on the United States Capitol.,positive,neutral
+499,THE BOYS IN THE BOAT,The University of Washington’s eight-oar crew and their quest for gold at the 1936 Berlin Olympics.,positive,neutral
+500,ALEX CROSS MUST DIE,"The 32nd book in the Alex Cross series. When a jet is gunned down, Cross goes back into action.",positive,neutral
+501,THE LYRICS: 1956 TO THE PRESENT,"A celebration of 161 songs, with handwritten texts, paintings and photographs from the songwriter’s archives.",positive,neutral
+502,WONKA,"The movie novelization and prequel to ""Charlie and the Chocolate Factory,"" written by Roald Dahl.",positive,neutral
+503,JUNIPER'S CHRISTMAS,Juniper Lane suspects that Santa himself is living in her local park and seeks his help.,positive,neutral
+504,PETE THE CAT'S 12 GROOVY DAYS OF CHRISTMAS,"Pete's spin on the holiday classic ""The Twelve Days of Christmas.""",positive,neutral
+505,THE OFFICIAL FIVE NIGHTS AT FREDDY'S COOKBOOK,Over 40 recipes inspired by the hit games.,positive,neutral
+506,BETTING ON YOU,"Charlie and Bailey place bets on the love lives of others, while fighting the feelings they have for each other.",positive,neutral
+507,HOUSE OF EARTH AND BLOOD,"Passion arises between Bryce Quinlan and Hunt Athalar as they seek to avenge the deaths of Bryce’s friends. Read by Elizabeth Evans. 27 hours, 50 minutes unabridged",positive,neutral
+508,"THE KINGDOM, THE POWER, AND THE GLORY","The author of “American Carnage” looks at divisions within the American evangelical movement. Read by the author. 18 hours, 15 minutes unabridged.",positive,neutral
+509,"HEARTSTOPPER, VOL. 5","Charlie wants to take his relationship with Nick, who will go to university next year, to a new level.",positive,neutral
+510,WINTER TURNING,The seventh book in the Wings of Fire graphic novel series. Winter must face his family in the Ice Kingdom.,positive,neutral
+511,"CHAINSAW MAN, VOL. 13",Asa’s new friend may have a secret and Denji questions his own competence as he considers revealing his identity.,neutral,neutral
+512,CLAUDIA AND THE BAD JOKE,The 15th book in the Baby-Sitters Club graphic novel series. Things escalate when a practical joker causes Claudia to break her leg.,positive,neutral
+513,3 DAYS TO LIVE,"Three thrillers: “3 Days to Live,” “Women and Children First” and “The Housekeepers.”",neutral,neutral
+514,GABRIEL'S ANGEL,"On a snowy night in Colorado, a man saves a stranded pregnant woman and joins her custody battle after falling in love.",positive,neutral
+515,DARK NIGHT OF THE MOUNTAIN MAN,"A gang of bank robbers, a medicine man and a giant grizzly bear complicate matters for Smoke Jensen.",positive,neutral
+516,TREASURE STATE,The sixth book in the Cassie Dewell series. Cassie works two cases involving buried treasure and a con man.,positive,neutral
+517,JUST AFTER SUNSET,A collection of short stories that blend fantasy and psychological realism.,positive,neutral
