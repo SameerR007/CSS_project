@@ -11,3 +11,5 @@
 4.Recommender System - In the end we would make an interactive interface for the user to input the book they have already read and give the most similar book from the books that has featured in Newyork Times Bestsellers.We will make use of cosine similarity to get the most similar NYT bestseller book to the inputed book.
 
 5.Finally deploy our models online for public use.
+
+Link to app - https://huggingface.co/spaces/sameerrawat07/NYTbestseller
