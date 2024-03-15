@@ -1,5 +1,5 @@
 # Computational Social Science Project
-## Newyork Times Bestseller analysis
+## Analyzing the sentiment and mood of the society using Newyork Times 2023 Bestsellers
 ### Sameer Singh Rawat, LMU Munich
 
 1.Data Collection - Collecting the data of newyork times bestseller books through NYT api, and their respective summary from google books api. 
